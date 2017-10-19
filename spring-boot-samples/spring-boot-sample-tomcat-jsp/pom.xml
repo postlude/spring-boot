@@ -6,7 +6,8 @@
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
-		<version>${revision}</version>
+		<!--<version>${revision}</version>-->
+		<version>.1.0</version>
 	</parent>
 	<artifactId>spring-boot-sample-tomcat-jsp</artifactId>
 	<packaging>war</packaging>
