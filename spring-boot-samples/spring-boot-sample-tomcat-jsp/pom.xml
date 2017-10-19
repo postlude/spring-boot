@@ -62,9 +62,9 @@
 	</build>
 	<profiles>
 		<profile>
-			<id>java9</id>
+			<id>java8</id>
 			<activation>
-				<jdk>9</jdk>
+				<jdk>8</jdk>
 			</activation>
 			<build>
 				<plugins>
